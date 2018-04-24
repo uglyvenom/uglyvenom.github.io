@@ -2,7 +2,7 @@
 title: "Atalarımız"
 ---
 
-Bu sayfamız da Atalarımızın bizler için söylediği anlamlı sözler ve zor şartlar da yaptığı tüm icraatlar paylaşılmaya çalışılacaktır. O zaman şartlarında Bilişim, Hacking, Siber Güvenlik kavramları olmadığından dolayı. Atasözler de ki İlim veya Fen gibi kelimeleri şuan ki zamana uyarlayın. 
+Bu sayfamız da Atalarımızın bizler için söylediği anlamlı sözler ve zor şartlar da yaptığı tüm icraatlar paylaşılmaya çalışılacaktır. O zaman şartlarında Bilişim, Hacking, Siber Güvenlik kavramları olmadığından dolayı. Atasözlerindeki ilim veya fen gibi kelimeleri günümüze göre uyarlayın.
 
 - **Mustafa Kemal Atatürk** - İtiraf ederim ki, düşmanlarımız çok çalışıyor. Biz de onlardan daha çok çalışmaya mecburuz. Çalışmak demek, boşuna yorulmak, terlemek değildir. Zamanın gereklerine göre bilim ve teknik ve her türlü medeni buluşlardan azami derecede yararlanmak zorunludur.
 
