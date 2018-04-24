@@ -10,6 +10,5 @@ Bu sayfamız da Atalarımızın bizler için söylediği anlamlı sözler ve zor
 
 - **Fatih Sultan Mehmed** - Bir çok tarihçi'ye göre ilk havan topunu icat ettiği düşünülüyor. 
 
-Atalarımızın çalışkanlık, ilim ve/veya fen ile ilgili sözlerini ve icraatlarını paylaşmaya çalışacağız. 
-Tarihçi değiliz, Atasözlerinde ve İcraatlar da eksiklik veya yanlışlık var ise düzeltmemiz için bize ulaşın. :)
+Tarihçi değiliz, paylaşımlar da eksik gördüğünüz veya yanlış olan yerler var ise düzeltmemiz için bize ulaşın. :)
 
