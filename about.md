@@ -11,7 +11,7 @@ Venom, 2018 yılında MDV'den oluşan sadece Türk dünyasının Hacking alanın
 ### Atalarımız 
 
 - Mustafa Kemal Atatürk - Bilim ve fen nerede ise oradan alacağız ve ulusun her bireyinin kafasına koyacağız.
-- Diğer atalarımızın sözlerini de koyacağız.
+- Diğer atalarımızın sözlerini de ekleyeceğiz.
 
 ### Team
 
