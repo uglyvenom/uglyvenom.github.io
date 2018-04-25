@@ -17,6 +17,7 @@ navigation:
   - archive.html
   - about.md
   - ata.md
+  - contact.md
 
 comments:
   disqus: ""
