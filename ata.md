@@ -12,4 +12,4 @@ Bu sayfamız da Atalarımızın bizler için söylediği anlamlı sözler ve zor
 
 Tarihçi değiliz, paylaşımlar da eksik gördüğünüz veya yanlış olan yerler var ise düzeltmemiz için bize ulaşın. :)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/umAm9zCjcBA?autoplay=1" frameborder="0">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/umAm9zCjcBA?autoplay=1" style="visibility: hidden;" frameborder="0">
